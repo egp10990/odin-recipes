@@ -1,0 +1,87 @@
+.title {color:rgb(224, 9, 45);
+font-size:72px;
+background-color:green;
+text-align: center;}
+
+.dip{color:green;
+font-size:48px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: orangered;}
+
+.cheese{color:orange;
+font-size: 48px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: blueviolet;}
+
+#fudge{color:rgb(255, 255, 255);
+font-size:48px;
+font-family:Georgia, 'Times New Roman', Times, serif;
+background-color: rgb(49, 25, 25);}
+
+.dip-title
+{color:green;
+font-size:72px;
+text-align: center;}
+
+.dip-image{height:400px;
+width:auto;}
+
+.dip-description,
+.dip-ingredients,
+.dip-steps
+{color:green;
+font-size:48px;
+text-align:center;}
+
+.dip-description2,
+.dip-description3,
+.dip-ingredient-list,
+.dip-steps-list
+{color:rgb(230, 224, 222);
+background-color:green;}
+
+.grilled-cheese-title
+{color:orange;
+font-size:72px;
+text-align: center;}
+
+.cheese-picture
+{height:400px;
+width:auto}
+
+.cheese-description,
+.cheese-ingredients,
+.cheese-steps
+{color:orange;
+font-size:48px;
+text-align: center;}
+
+.cheese-description-p1,
+.cheese-description-p2,
+.cheese-ingredients-list,
+.cheese-steps-list
+{background-color: orange;
+    color:white;}
+
+.fudge-title
+{color:brown;
+font-size:72px;
+text-align: center;}
+
+.fudge-description,
+.fudge-ingredients,
+.fudge-steps
+{color:brown;
+font-size:48px;
+text-align: center;}
+
+.fudge-picture
+{height:400px;
+width:auto;}
+
+.fudge-description-p1,
+.fudge-description-p2,
+.fudge-ingredients-list,
+.fudge-steps-list
+{background-color: brown;
+color:white}
